@@ -9,3 +9,4 @@
   dotnet ef migrations add AdmAdd
   dotnet ef database update
 ```
+#fim
